@@ -28,16 +28,5 @@
       "control": "exists"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "issitedetail",
-        "issitedetail"
-      ],
-      "event": "sitedetail",
-      "screens": [
-        "sitedetail"
-      ]
-    }
-  ]
+  "connect": []
 }
