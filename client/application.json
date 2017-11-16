@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "a22c6f8b",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "admin"
+  "creatorId": "admin",
+  "id": "restapisample",
+  "previewImageURL": "/previews/a22c6f8b-restapisample/.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gssbthir/restapisample",
+  "creatorName": "PowWow Admin",
+  "sdks": []
 }

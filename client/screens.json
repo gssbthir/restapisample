@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "restapisample",
-  "startScreen": null,
+  "startScreen": "app.sitedetail",
   "screens": [
     {
       "id": "menu",
