@@ -33,9 +33,7 @@
       "match": [
         "issitedetail"
       ],
-      "screens": [
-        "sitedetail"
-      ]
+      "event": "sitedetail"
     }
   ]
 }
