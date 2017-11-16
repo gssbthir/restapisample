@@ -1,1 +1,19 @@
-{}
+{
+  "sitedetail": [
+    {
+      "title": "Space",
+      "value": "46.3M",
+      "measure": "Sq.ft"
+    },
+    {
+      "title": "People",
+      "value": "172.3",
+      "measure": "K"
+    },
+    {
+      "title": "Equipment",
+      "value": "13.5",
+      "measure": "K"
+    }
+  ]
+}
