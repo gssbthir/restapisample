@@ -16,8 +16,8 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "sitedetail",
+      "name": "sitedetail",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
     }
