@@ -20,13 +20,6 @@
       "name": "multiselect",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.multiselect"
-    },
-    {
-      "id": "listviewclassic",
-      "name": "ListView-Classic",
-      "sourceScreenId": "app.listview.listviewclassic",
-      "sourceAppId": "universaltemplates",
-      "model": "listviewclassic"
     }
   ],
   "sourceAppId": "_blank",
