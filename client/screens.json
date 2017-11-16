@@ -7,7 +7,8 @@
       "id": "sitedetail",
       "name": "sitedetail",
       "sourceAppId": "_blank",
-      "sourceScreenId": "app.blank"
+      "sourceScreenId": "app.blank",
+      "model": "sitedetail"
     },
     {
       "id": "menu",
