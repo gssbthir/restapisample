@@ -28,5 +28,12 @@
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "issitedetail"
+      ],
+      "event": "sitedetail"
+    }
+  ]
 }
