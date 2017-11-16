@@ -1,15 +1,8 @@
 {
   "id": "app",
   "name": "restapisample",
-  "startScreen": "app.sitedetail",
+  "startScreen": null,
   "screens": [
-    {
-      "id": "sitedetail",
-      "name": "sitedetail",
-      "sourceAppId": "_blank",
-      "sourceScreenId": "app.blank",
-      "model": "sitedetail"
-    },
     {
       "id": "menu",
       "name": "menu",
