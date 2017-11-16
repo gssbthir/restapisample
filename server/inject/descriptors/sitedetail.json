@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "sitedetail": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string"
+          },
+          "measure": {
+            "type": "string"
+          }
+        }
+      },
+      "update": {
+        "type": "none"
+      }
+    },
+    "issitedetail": {
+      "type": "string",
+      "selector": "body"
+    }
+  },
+  "connect": []
+}
