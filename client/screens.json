@@ -1,11 +1,11 @@
 {
   "id": "app",
   "name": "restapisample",
-  "startScreen": "app.blank",
+  "startScreen": "app.sitedetail",
   "screens": [
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "sitedetail",
+      "name": "sitedetail",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank"
     },
