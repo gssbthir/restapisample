@@ -2,36 +2,6 @@
   "sitedetail": {
     "type": "object",
     "comment": "",
-    "properties": {
-      "sitedetail": {
-        "type": "array",
-        "items": {
-          "type": "object",
-          "properties": {
-            "title": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            },
-            "value": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            },
-            "measure": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            }
-          }
-        },
-        "update": {
-          "type": "none"
-        }
-      }
-    }
+    "properties": {}
   }
 }
