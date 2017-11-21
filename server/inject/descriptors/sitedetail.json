@@ -26,14 +26,5 @@
       "selector": "body"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "issitedetail"
-      ],
-      "screens": [
-        "sitedetail"
-      ]
-    }
-  ]
+  "connect": []
 }
