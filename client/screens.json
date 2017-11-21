@@ -19,7 +19,8 @@
       "id": "sitedetail",
       "name": "sitedetail",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "sitedetail"
     }
   ],
   "sourceAppId": "_blank",
