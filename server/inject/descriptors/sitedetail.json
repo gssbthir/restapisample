@@ -28,5 +28,14 @@
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "issitedetail"
+      ],
+      "screens": [
+        "sitedetail"
+      ]
+    }
+  ]
 }
