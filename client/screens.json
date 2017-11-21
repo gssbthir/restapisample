@@ -20,7 +20,7 @@
       "name": "sitedetail",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
-      "model": "sitedetails"
+      "model": "sitedetail"
     }
   ],
   "sourceAppId": "_blank",
