@@ -23,8 +23,8 @@
       "model": "sitedetail"
     },
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "sitedetails",
+      "name": "sitedetails",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
     }
