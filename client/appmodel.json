@@ -2,6 +2,16 @@
   "sitedetail": {
     "type": "object",
     "comment": "",
-    "properties": {}
+    "properties": {
+      "title": {
+        "type": "string"
+      },
+      "value": {
+        "type": "string"
+      },
+      "measure": {
+        "type": "string"
+      }
+    }
   }
 }
