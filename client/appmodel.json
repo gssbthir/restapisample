@@ -13,5 +13,20 @@
         "type": "string"
       }
     }
+  },
+  "sitedetails": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "title": {
+        "type": "string"
+      },
+      "value": {
+        "type": "string"
+      },
+      "measure": {
+        "type": "string"
+      }
+    }
   }
 }
