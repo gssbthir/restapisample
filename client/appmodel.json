@@ -22,5 +22,28 @@
         }
       }
     }
+  },
+  "sitedetails": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "list": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "Title": {
+              "type": "string"
+            },
+            "value": {
+              "type": "string"
+            },
+            "Measure": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
   }
 }
