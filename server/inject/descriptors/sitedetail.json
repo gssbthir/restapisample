@@ -19,6 +19,11 @@
       "update": {
         "type": "none"
       }
+    },
+    "issitedetail": {
+      "type": "identifier",
+      "selector": ".default-theme.des-mat",
+      "control": "property.innerText"
     }
   },
   "connect": []
