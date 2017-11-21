@@ -26,5 +26,12 @@
       "selector": "body"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "issitedetail"
+      ],
+      "event": "sitedetail"
+    }
+  ]
 }
