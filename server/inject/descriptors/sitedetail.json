@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "title": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "value": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "measure": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    }
+  },
+  "connect": []
+}
